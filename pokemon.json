@@ -21786,5 +21786,769 @@
             "coins": 15700,
             "description": "While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs.",
             "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/851.png"
+        },
+        {
+            "ID": 851,
+            "name": "Clobbopus",
+            "type": "Fighting",
+            "power": {
+                "HP": 50,
+                "Attack": 68,
+                "Defense": 60,
+                "Speed": 32
+            },
+            "skill": [
+                [
+                    "Limber",
+                    "false"
+                ],
+                [
+                    "Technician",
+                    "true"
+                ]
+            ],
+            "coins": 7100,
+            "description": "Its tentacles tear off easily, but it isn’t alarmed when that happens—it knows they’ll grow back. It’s about as smart as a three-year-old.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/852.png"
+        },
+        {
+            "ID": 852,
+            "name": "Grapploct",
+            "type": "Fighting",
+            "power": {
+                "HP": 80,
+                "Attack": 118,
+                "Defense": 90,
+                "Speed": 42
+            },
+            "skill": [
+                [
+                    "Limber",
+                    "false"
+                ],
+                [
+                    "Technician",
+                    "true"
+                ]
+            ],
+            "coins": 17100,
+            "description": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/853.png"
+        },
+        {
+            "ID": 853,
+            "name": "Sinistea",
+            "type": "Ghost",
+            "power": {
+                "HP": 40,
+                "Attack": 45,
+                "Defense": 45,
+                "Speed": 50
+            },
+            "skill": [
+                [
+                    "Weak-armor",
+                    "false"
+                ],
+                [
+                    "Cursed-body",
+                    "true"
+                ]
+            ],
+            "coins": 6100,
+            "description": "The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/854.png"
+        },
+        {
+            "ID": 854,
+            "name": "Polteageist",
+            "type": "Ghost",
+            "power": {
+                "HP": 60,
+                "Attack": 65,
+                "Defense": 65,
+                "Speed": 70
+            },
+            "skill": [
+                [
+                    "Weak-armor",
+                    "false"
+                ],
+                [
+                    "Cursed-body",
+                    "true"
+                ]
+            ],
+            "coins": 7500,
+            "description": "Leaving leftover black tea unattended is asking for this Pokémon to come along and pour itself into it, turning the tea into a new Polteageist.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/855.png"
+        },
+        {
+            "ID": 855,
+            "name": "Hatenna",
+            "type": "Psychic",
+            "power": {
+                "HP": 42,
+                "Attack": 30,
+                "Defense": 45,
+                "Speed": 39
+            },
+            "skill": [
+                [
+                    "Healer",
+                    "false"
+                ],
+                [
+                    "Anticipation",
+                    "false"
+                ],
+                [
+                    "Magic-bounce",
+                    "true"
+                ]
+            ],
+            "coins": 4400,
+            "description": "If this Pokémon senses a strong emotion, it will run away as fast as it can. It prefers areas without people.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/856.png"
+        },
+        {
+            "ID": 856,
+            "name": "Hattrem",
+            "type": "Psychic",
+            "power": {
+                "HP": 57,
+                "Attack": 40,
+                "Defense": 65,
+                "Speed": 49
+            },
+            "skill": [
+                [
+                    "Healer",
+                    "false"
+                ],
+                [
+                    "Anticipation",
+                    "false"
+                ],
+                [
+                    "Magic-bounce",
+                    "true"
+                ]
+            ],
+            "coins": 7400,
+            "description": "Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/857.png"
+        },
+        {
+            "ID": 857,
+            "name": "Hatterene",
+            "type": "Psychic",
+            "power": {
+                "HP": 57,
+                "Attack": 90,
+                "Defense": 95,
+                "Speed": 29
+            },
+            "skill": [
+                [
+                    "Healer",
+                    "false"
+                ],
+                [
+                    "Anticipation",
+                    "false"
+                ],
+                [
+                    "Magic-bounce",
+                    "true"
+                ]
+            ],
+            "coins": 8700,
+            "description": "If you’re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/858.png"
+        },
+        {
+            "ID": 858,
+            "name": "Impidimp",
+            "type": "Dark",
+            "power": {
+                "HP": 45,
+                "Attack": 45,
+                "Defense": 30,
+                "Speed": 50
+            },
+            "skill": [
+                [
+                    "Prankster",
+                    "false"
+                ],
+                [
+                    "Frisk",
+                    "false"
+                ],
+                [
+                    "Pickpocket",
+                    "true"
+                ]
+            ],
+            "coins": 6400,
+            "description": "It sneaks into people’s homes, stealing things and feasting on the negative energy of the frustrated occupants.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/859.png"
+        },
+        {
+            "ID": 859,
+            "name": "Morgrem",
+            "type": "Dark",
+            "power": {
+                "HP": 65,
+                "Attack": 60,
+                "Defense": 45,
+                "Speed": 70
+            },
+            "skill": [
+                [
+                    "Prankster",
+                    "false"
+                ],
+                [
+                    "Frisk",
+                    "false"
+                ],
+                [
+                    "Pickpocket",
+                    "true"
+                ]
+            ],
+            "coins": 7500,
+            "description": "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/860.png"
+        },
+        {
+            "ID": 860,
+            "name": "Grimmsnarl",
+            "type": "Dark",
+            "power": {
+                "HP": 95,
+                "Attack": 120,
+                "Defense": 65,
+                "Speed": 60
+            },
+            "skill": [
+                [
+                    "Prankster",
+                    "false"
+                ],
+                [
+                    "Frisk",
+                    "false"
+                ],
+                [
+                    "Pickpocket",
+                    "true"
+                ]
+            ],
+            "coins": 14500,
+            "description": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/861.png"
+        },
+        {
+            "ID": 861,
+            "name": "Obstagoon",
+            "type": "Dark",
+            "power": {
+                "HP": 93,
+                "Attack": 90,
+                "Defense": 101,
+                "Speed": 95
+            },
+            "skill": [
+                [
+                    "Reckless",
+                    "false"
+                ],
+                [
+                    "Guts",
+                    "false"
+                ],
+                [
+                    "Defiant",
+                    "true"
+                ]
+            ],
+            "coins": 45500,
+            "description": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/862.png"
+        },
+        {
+            "ID": 862,
+            "name": "Perrserker",
+            "type": "Steel",
+            "power": {
+                "HP": 70,
+                "Attack": 110,
+                "Defense": 100,
+                "Speed": 50
+            },
+            "skill": [
+                [
+                    "Battle-armor",
+                    "false"
+                ],
+                [
+                    "Tough-claws",
+                    "false"
+                ],
+                [
+                    "Steely-spirit",
+                    "true"
+                ]
+            ],
+            "coins": 32500,
+            "description": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/863.png"
+        },
+        {
+            "ID": 863,
+            "name": "Cursola",
+            "type": "Ghost",
+            "power": {
+                "HP": 60,
+                "Attack": 95,
+                "Defense": 50,
+                "Speed": 30
+            },
+            "skill": [
+                [
+                    "Weak-armor",
+                    "false"
+                ],
+                [
+                    "Perish-body",
+                    "true"
+                ]
+            ],
+            "coins": 7200,
+            "description": "Be cautious of the ectoplasmic body surrounding its soul. You’ll become stiff as stone if you touch it.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/864.png"
+        },
+        {
+            "ID": 864,
+            "name": "Runerigus",
+            "type": "Ghost",
+            "power": {
+                "HP": 58,
+                "Attack": 95,
+                "Defense": 145,
+                "Speed": 30
+            },
+            "skill": [
+                [
+                    "Wandering-spirit",
+                    "false"
+                ]
+            ],
+            "coins": 5300,
+            "description": "Never touch its shadowlike body, or you’ll be shown the horrific memories behind the picture carved into it.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/867.png"
+        },
+        {
+            "ID": 865,
+            "name": "Milcery",
+            "type": "Fairy",
+            "power": {
+                "HP": 45,
+                "Attack": 40,
+                "Defense": 40,
+                "Speed": 34
+            },
+            "skill": [
+                [
+                    "Sweet-veil",
+                    "false"
+                ],
+                [
+                    "Aroma-veil",
+                    "true"
+                ]
+            ],
+            "coins": 4300,
+            "description": "They say that any patisserie visited by Milcery is guaranteed success and good fortune.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/868.png"
+        },
+        {
+            "ID": 866,
+            "name": "Alcremie",
+            "type": "Fairy",
+            "power": {
+                "HP": 65,
+                "Attack": 60,
+                "Defense": 75,
+                "Speed": 64
+            },
+            "skill": [
+                [
+                    "Sweet-veil",
+                    "false"
+                ],
+                [
+                    "Aroma-veil",
+                    "true"
+                ]
+            ],
+            "coins": 6300,
+            "description": "When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/869.png"
+        },
+        {
+            "ID": 867,
+            "name": "Falinks",
+            "type": "Fighting",
+            "power": {
+                "HP": 65,
+                "Attack": 100,
+                "Defense": 100,
+                "Speed": 75
+            },
+            "skill": [
+                [
+                    "Battle-armor",
+                    "false"
+                ],
+                [
+                    "Defiant",
+                    "true"
+                ]
+            ],
+            "coins": 8300,
+            "description": "The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/870.png"
+        },
+        {
+            "ID": 868,
+            "name": "Pincurchin",
+            "type": "Electric",
+            "power": {
+                "HP": 48,
+                "Attack": 101,
+                "Defense": 95,
+                "Speed": 15
+            },
+            "skill": [
+                [
+                    "Lightning-rod",
+                    "false"
+                ],
+                [
+                    "Electric-surge",
+                    "true"
+                ]
+            ],
+            "coins": 13300,
+            "description": "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/871.png"
+        },
+        {
+            "ID": 869,
+            "name": "Snom",
+            "type": "Ice",
+            "power": {
+                "HP": 30,
+                "Attack": 25,
+                "Defense": 35,
+                "Speed": 20
+            },
+            "skill": [
+                [
+                    "Shield-dust",
+                    "false"
+                ],
+                [
+                    "Ice-scales",
+                    "true"
+                ]
+            ],
+            "coins": 3300,
+            "description": "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/872.png"
+        },
+        {
+            "ID": 870,
+            "name": "Frosmoth",
+            "type": "Ice",
+            "power": {
+                "HP": 70,
+                "Attack": 65,
+                "Defense": 60,
+                "Speed": 65
+            },
+            "skill": [
+                [
+                    "Shield-dust",
+                    "false"
+                ],
+                [
+                    "Ice-scales",
+                    "true"
+                ]
+            ],
+            "coins": 6520,
+            "description": "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/873.png"
+        },
+        {
+            "ID": 871,
+            "name": "Stonjourner",
+            "type": "Rock",
+            "power": {
+                "HP": 100,
+                "Attack": 125,
+                "Defense": 135,
+                "Speed": 70
+            },
+            "skill": [
+                [
+                    "Power-spot",
+                    "false"
+                ]
+            ],
+            "coins": 17700,
+            "description": "Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/874.png"
+        },
+        {
+            "ID": 872,
+            "name": "Eiscue",
+            "type": "Psychic",
+            "power": {
+                "HP": 75,
+                "Attack": 80,
+                "Defense": 110,
+                "Speed": 50
+            },
+            "skill": [
+                [
+                    "Inner-focus",
+                    "false"
+                ],
+                [
+                    "Synchronize",
+                    "false"
+                ],
+                [
+                    "Psychic-surge",
+                    "true"
+                ]
+            ],
+            "coins": 14700,
+            "description": "This Pokémon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/875.png"
+        },
+        {
+            "ID": 873,
+            "name": "Indeedee",
+            "type": "Psychic",
+            "power": {
+                "HP": 60,
+                "Attack": 65,
+                "Defense": 55,
+                "Speed": 95
+            },
+            "skill": [
+                [
+                    "Inner-focus",
+                    "false"
+                ],
+                [
+                    "Synchronize",
+                    "false"
+                ],
+                [
+                    "Psychic-surge",
+                    "true"
+                ]
+            ],
+            "coins": 9700,
+            "description": "Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/876.png"
+        },
+        {
+            "ID": 874,
+            "name": "Morpeko",
+            "type": "Electric",
+            "power": {
+                "HP": 58,
+                "Attack": 95,
+                "Defense": 58,
+                "Speed": 97
+            },
+            "skill": [
+                [
+                    "Hunger-switch",
+                    "false"
+                ]
+            ],
+            "coins": 8800,
+            "description": "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/877.png"
+        },
+        {
+            "ID": 875,
+            "name": "Cufant",
+            "type": "Steel",
+            "power": {
+                "HP": 72,
+                "Attack": 80,
+                "Defense": 49,
+                "Speed": 40
+            },
+            "skill": [
+                [
+                    "Sheer-force",
+                    "false"
+                ],
+                [
+                    "Heavy-metal",
+                    "true"
+                ]
+            ],
+            "coins": 7500,
+            "description": "If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/878.png"
+        },
+        {
+            "ID": 876,
+            "name": "Copperajah",
+            "type": "Steel",
+            "power": {
+                "HP": 122,
+                "Attack": 130,
+                "Defense": 69,
+                "Speed": 30
+            },
+            "skill": [
+                [
+                    "Sheer-force",
+                    "false"
+                ],
+                [
+                    "Heavy-metal",
+                    "true"
+                ]
+            ],
+            "coins": 47500,
+            "description": "These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/879.png"
+        },
+        {
+            "ID": 877,
+            "name": "Dracozolt",
+            "type": "Electric",
+            "power": {
+                "HP": 90,
+                "Attack": 100,
+                "Defense": 90,
+                "Speed": 75
+            },
+            "skill": [
+                [
+                    "Volt-absorb",
+                    "false"
+                ],
+                [
+                    "Hustle",
+                    "false"
+                ],
+                [
+                    "Sand-rush",
+                    "true"
+                ]
+            ],
+            "coins": 27500,
+            "description": "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/880.png"
+        },
+        {
+            "ID": 878,
+            "name": "Arctozolt",
+            "type": "Electric",
+            "power": {
+                "HP": 90,
+                "Attack": 100,
+                "Defense": 90,
+                "Speed": 55
+            },
+            "skill": [
+                [
+                    "Volt-absorb",
+                    "false"
+                ],
+                [
+                    "Static",
+                    "false"
+                ],
+                [
+                    "Slush-rush",
+                    "true"
+                ]
+            ],
+            "coins": 102500,
+            "description": "This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/881.png"
+        },
+        {
+            "ID": 879,
+            "name": "Dracovish",
+            "type": "Water",
+            "power": {
+                "HP": 90,
+                "Attack": 90,
+                "Defense": 100,
+                "Speed": 75
+            },
+            "skill": [
+                [
+                    "Water-absor",
+                    "false"
+                ],
+                [
+                    "Strong-jaw",
+                    "false"
+                ],
+                [
+                    "Sand-rush",
+                    "true"
+                ]
+            ],
+            "coins": 12500,
+            "description": "Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can’t breathe unless it’s underwater.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/882.png"
+        },
+        {
+            "ID": 880,
+            "name": "Arctovish",
+            "type": "Water",
+            "power": {
+                "HP": 90,
+                "Attack": 90,
+                "Defense": 100,
+                "Speed": 55
+            },
+            "skill": [
+                [
+                    "Water-absor",
+                    "false"
+                ],
+                [
+                    "Ice-bod",
+                    "false"
+                ],
+                [
+                    "Slush-rush",
+                    "true"
+                ]
+            ],
+            "coins": 14500,
+            "description": "The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway.",
+            "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/883.png"
         }
 ]
